@@ -183,7 +183,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/jagriti.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Jagriti Wadhawan</span><br/>
-        <span>Archi</span><br/>
+        <span>Architecture</span><br/>
         <span>9805802030</span><br/>
         </div>
       </div>
@@ -209,7 +209,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/chandrima.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Chandrima Modgil</span><br/>
-        <span>Archi</span><br/>
+        <span>Architecture</span><br/>
         <span>9882541639</span><br/>
         </div>
       </div>
@@ -355,7 +355,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/rohit.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Rohit Thakur</span><br/>
-        <span>MED</span><br/>
+        <span>Mechanical</span><br/>
         <span>7833952855</span>
       </div>
       </div>
@@ -364,7 +364,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/rohan.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Rohan Verma</span><br/>
-        <span>MED</span><br/>
+        <span>Mechanical</span><br/>
         <span>8351880807</span>
       </div>
               
@@ -376,7 +376,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/vrinda.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Vrinda Gupta</span><br/>
-        <span>CSE 5yr</span><br/>
+        <span>CSE</span><br/>
         <span>9882633239</span>
       </div>
       </div>
@@ -386,7 +386,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/ritwik.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Ritwik Sharma</span><br/>
-        <span>ECE 5yr</span><br/>
+        <span>ECE</span><br/>
         <span>9736388781</span>
       </div>
       </div>
@@ -396,7 +396,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/aman.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Aman Singh</span><br/>
-        <span>MED</span><br/>
+        <span>Mechanical</span><br/>
         <span>9805365309</span>
       </div>
       </div>
@@ -481,7 +481,7 @@ mail("pixonoids@gmail.com",$subject,$message,$headers);
         <img src="Images/members/abhinav.jpg" id="slideup1"/>
         <div id="hiddeninfo">
         <span>Abhinav Mishra</span><br/>
-        <span>MED</span><br/>
+        <span>Mechanical</span><br/>
         <span>8192837889</span>
       </div>
       </div>
